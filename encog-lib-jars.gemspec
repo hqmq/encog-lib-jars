@@ -10,6 +10,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Michael Ries"]
   spec.email         = ["michael@riesd.com"]
   spec.description   = "A grem that just holds the encog java core lib jar. This jar comes from https://github.com/encog/encog-java-core."
+  spec.summary       = spec.description
   spec.homepage      = "https://github.com/hqmq/encog-lib-jars"
   spec.license       = "APACHE-2"
 
